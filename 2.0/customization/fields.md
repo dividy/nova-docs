@@ -131,7 +131,7 @@ By default, when saving a model, your field class will simply copy the incoming 
 ```php
 <?php
 
-namespace Otwell\ColorPicker;
+namespace Acme\ColorPicker;
 
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Http\Requests\NovaRequest;
